@@ -1,3 +1,4 @@
+joblib
 torch
 datasets
 transformers
@@ -7,7 +8,7 @@ playwright
 html2text
 sentence_transformers
 faiss-cpu
-accelerate==0.21.0
+accelerate
+bitsandbytes>=0.42.0
 peft==0.4.0
-bitsandbytes==0.40.2
 trl==0.4.7
